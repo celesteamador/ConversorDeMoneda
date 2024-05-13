@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50dca2af-6db8-4745-ad07-5acb19125a6c" name="Changes" comment="Progreso de Conversor de Moneda Mayo 2024">
-      <change afterPath="$PROJECT_DIR$/src/CurrencyPairs.java" afterDir="false" />
+    <list default="true" id="50dca2af-6db8-4745-ad07-5acb19125a6c" name="Changes" comment="Conversor de Moneda Terminado Mayo 2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Exchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Exchange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +84,7 @@
       <updated>1715572005274</updated>
       <workItem from="1715572006464" duration="802000" />
       <workItem from="1715572847273" duration="2517000" />
-      <workItem from="1715613236693" duration="13224000" />
+      <workItem from="1715613236693" duration="14111000" />
     </task>
     <task id="LOCAL-00001" summary="Progreso de Conversor de Moneda Mayo 2024">
       <option name="closed" value="true" />
@@ -97,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715624427466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Conversor de Moneda Terminado Mayo 2024">
+      <option name="closed" value="true" />
+      <created>1715627477813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715627477813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Conversor de Moneda Terminado Mayo 2024">
+      <option name="closed" value="true" />
+      <created>1715627583593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715627583593</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Progreso de Conversor de Moneda Mayo 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Progreso de Conversor de Moneda Mayo 2024" />
+    <MESSAGE value="Conversor de Moneda Terminado Mayo 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conversor de Moneda Terminado Mayo 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

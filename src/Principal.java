@@ -31,7 +31,8 @@ public class Principal {
             int option = 0;
             option = scanner.nextInt();
             if (option == 7) {
-                System.out.println("Gracias por utilizar el convertidor.");
+                System.out.println("Gracias por utilizar el convertidor.\n" +
+                        "La aplicacion ha finalizado");
                 break;
             }
 
@@ -84,10 +85,9 @@ public class Principal {
                     System.out.println("La conversion de " + currencyAmount + " CAD a USD es" + currency6.conversion_result());
                     break;
                 default:
-                    System.out.println("Opcion no valida");
+                    System.out.println("Opcion no valida, intente nuevamente.");
                     break;
             }
-            System.out.println("La aplicacion ha finalizado");
         }
     }
 }
