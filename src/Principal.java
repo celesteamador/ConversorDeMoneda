@@ -36,11 +36,10 @@ public class Principal {
             }
 
             //LLAMANDO CURRENCY
-
             String currencyOption = new String();
             double currencyAmount;
 
-            //SI LA RESPUESTA NO COINCIDE CON EL MENU
+            //ACTIVACION DE OPCIONES
             switch (option) {
                 case 1:
                     scanner.nextLine();
