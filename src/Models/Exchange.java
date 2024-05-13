@@ -12,6 +12,7 @@ public class Exchange {
     public Currency locateCurrency(String CurrencyOption, double CurrencyAmount) {
         URI direccion = URI.create("https://v6.exchangerate-api.com/v6/1a45912a55b4425d06fd6a9d/pair/" + CurrencyOption + CurrencyAmount);
 
+
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(direccion)
